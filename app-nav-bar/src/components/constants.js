@@ -178,18 +178,18 @@ export const sidebarData = [
     menu: [
       {
         type: "firstLink",
-        text: "Home Dasboard",
+        text: "Home",
+        link: "/",
+      },
+      {
+        type: "firstLink",
+        text: "Dashboard",
         link: "dashboard",
       },
       {
         type: "firstLink",
         text: "Account",
         link: "account",
-      },
-      {
-        type: "firstLink",
-        text: "Project",
-        link: "project",
       },
     ],
   },

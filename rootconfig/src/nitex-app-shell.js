@@ -22,6 +22,7 @@ registerApplication({
 });
 
 let activeWhen = pathToActiveWhen("/", true);
+// let activeWhen = pathToActiveWhen("/", true);
 registerApplication({
   name: "@nitex/app-home",
   app: () => System.import("@nitex/app-home"),

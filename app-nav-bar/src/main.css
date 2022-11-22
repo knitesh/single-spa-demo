@@ -471,6 +471,9 @@ video {
 .mt-3 {
   margin-top: 0.75rem;
 }
+.mr-2 {
+  margin-right: 0.5rem;
+}
 .flex {
   display: flex;
 }
@@ -568,9 +571,9 @@ video {
 .uppercase {
   text-transform: uppercase;
 }
-.text-gray-300 {
+.text-gray-700 {
   --tw-text-opacity: 1;
-  color: rgb(209 213 219 / var(--tw-text-opacity));
+  color: rgb(55 65 81 / var(--tw-text-opacity));
 }
 .text-white\/70 {
   color: rgb(255 255 255 / 0.7);
